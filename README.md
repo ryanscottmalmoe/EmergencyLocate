@@ -1,5 +1,4 @@
 # EmergencyLocate
 
-This is a just a sample of how to grab current user location by latitude and longitude 
-to send a distress signal to a chosen set of phone numbers by SMS.
+This is a just a sample of how to send a distress signal from current user location to and end user through SMS. This sample code grabs latitude and longitude coordinates and converts its to a readable clickable address through the SMS.
 	
